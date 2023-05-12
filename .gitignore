@@ -1,0 +1,2 @@
+# NN artifacts shouldn't be in the repository, they should be under releases
+*.h5
